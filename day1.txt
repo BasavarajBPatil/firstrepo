@@ -1,0 +1,29 @@
+1.what is java?why java is platform independent?
+2.what is anonymous object ? give and example
+3.what are the java coding standerds for classes ?
+4.what are conditional operator explain with syntax ?
+5.why main method is public static void main(String args[])
+6.explain about System.out.println().
+7.wht is JIT ?
+8.what are the featurs of java?
+9.what is association ?what are the forms of association?
+10.difference between stack memory and Heap mempory?
+11.what are the types of class in java?
+12.is possible to make class as a static?
+13.how many ways we can initialize the property of an class ?
+14 what is interpreter ?
+15.what is the difference between c++ vs java?
+
+
+            programing
+1.wajp to print all the special two digits numbers ?
+2.wajp to print sum of non-prime numbers within 1 to n
+3.wajp to count how many pallindrome numbers are there between user entered two numbers
+4.wajp to check user entered number is spy number or not
+5.wajp to print all the leap years present between user entered two years
+
+
+
+
+
+
